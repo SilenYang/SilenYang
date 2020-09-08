@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 [![Blog](https://img.shields.io/badge/Blog-SilenYang-blue?style=flat-square)](https://blog.silenyang.com/)
-![Visits](https://komarev.com/ghpvc/?username=SilenYang&style=flat-square&label=Visitor)
+![visitors](https://komarev.com/ghpvc/?username=SilenYang&style=flat-square&label=Visitor)
 
 <samp>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
     <br><br>
-    I'm interesting in some awesome skills :grin:
+    I'm interesting in some awesome languages :grin:
   </samp>
 
 ### Languages I use
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-0175C2?style=flat-square&logo=flutter)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 ### Github Stats
 
