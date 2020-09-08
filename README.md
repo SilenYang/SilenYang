@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://blog.silenyang.com/"><img alt="Website" src="https://img.shields.io/badge/Blog-SilenYang-blue?style=flat-square&logo=appveyor"></a>
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilenYang&layout=compact)
 <br />
 ![SilenYang's github stats](https://github-readme-stats.vercel.app/api?username=SilenYang&show_icons=true&theme=dracula)
