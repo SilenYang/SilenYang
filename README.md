@@ -1,4 +1,4 @@
-### Hi there，I'm ![SilenYang](https://github.com/SilenYang?tab=repositories) 👋
+### Hi there，I'm [SilenYang](https://github.com/SilenYang?tab=repositories) 👋
 
 <!--
 **SilenYang/SilenYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
